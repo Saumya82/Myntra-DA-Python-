@@ -1,0 +1,8 @@
+AGENDA
+
+1.Which product categories have the highest number of products?
+2.How does the price distribution vary across different product categories?
+3.What are the top 10 most expensive and least expensive products?
+4.What is the distribution of customers based on location, age group?
+5.o customers from a specific location spend more on average?
+6.What are the most commonly ordered products?
